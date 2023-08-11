@@ -14,6 +14,7 @@ Döküman içerisindeki konu başlıkları aşağıda listelenmiştir.
 `Dosya Yolları`<br>
 `HTML Elementlerinin Anatomisi`<br>
 `HTML Yorum Satırları`<br>
+`Entity Characters` <br>
 `HTML Syntax`<br>
 `DOCTYPE Tanımlaması`<br>
 `Global Attributes`<br>
